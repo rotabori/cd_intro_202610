@@ -9,3 +9,9 @@ esta foto está en mi repositorio
 
 esta foto está en una dirección de internet
 ![Logo](https://github.com/rotabori/ensayo001/blob/main/carrito01.jpg)
+
+
+
+<p align="center">
+    Este texto está centrado
+</p>
