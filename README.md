@@ -8,4 +8,4 @@ esta foto está en mi repositorio
 ![Texto alternativo](clase_perdidos.jpg)
 
 esta foto está en una dirección de internet
-![Logo]([https://github.com/rotabori/ensayo001/blob/main/carrito01.jpg](https://github.com/rotabori/cd_intro_202610/blob/main/clase_perdidos.jpg))
+![Logo](https://github.com/rotabori/ensayo001/blob/main/carrito01.jpg)
